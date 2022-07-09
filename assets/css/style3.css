@@ -1,0 +1,13 @@
+.button{
+background-color: rgb(227, 221, 221);
+}
+.bcontainer{
+padding-top: 15px;
+text-align: center;
+}
+.pass{
+    text-align: center;
+}
+.number{
+    background-color: rgb(196, 194, 194);
+}

@@ -1,0 +1,35 @@
+body{
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(168,47,47,1) 30%, rgba(106,105,104,1) 98%);
+}
+
+img{
+border-radius: 5%;
+    height: 250px;
+    width: 250px;
+    }
+.container{
+display: flex;
+text-align: center;
+padding-top: 50px;
+}
+
+input::placeholder {
+text-align: center;
+
+}
+.title{
+    padding-top: 50px;
+    color: antiquewhite;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+}
+.verification{
+    padding-top: 100px;
+    color: antiquewhite;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+
+}
