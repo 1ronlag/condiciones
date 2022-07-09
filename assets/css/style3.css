@@ -1,7 +1,7 @@
 .button{
 background-color: rgb(227, 221, 221);
 }
-.bcontainer{
+.btncontainer{
 padding-top: 15px;
 text-align: center;
 }
@@ -10,4 +10,10 @@ text-align: center;
 }
 .number{
     background-color: rgb(196, 194, 194);
+}
+
+.result{
+text-align: center;
+
+
 }
